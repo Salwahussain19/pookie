@@ -12,8 +12,8 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Meri Guriyaa please... 🥺",
-    "If you say no, I will be Gndiiii Wli SALWA...",
+    "Gurllllll please... 🥺",
+    "If you say no, Antie ko bta dungi...",
     "I will be very sad... 😢",
     "Please??? 💔",
     "Don't do this to me...",
@@ -25,7 +25,7 @@ const yesTeasePokes = [
     'I Want Yuh To Choose "No" First Princess... I bet you want to know what happens 😏',
     "go on, hit no... just once 👀",
     "you're missing out 😈",
-    "click no, pljj 😏"
+    "click no, Gurlllll 😏"
 ]
 
 let yesTeasedCount = 0
